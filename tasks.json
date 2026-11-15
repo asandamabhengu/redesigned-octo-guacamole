@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "src/models/src/models/src/config/src/jobs/src/jobs/src/services/src/schuduler/src/routes/src/src",
+			"problemMatcher": [],
+			"label": "npm: dev - src/models/src/models/src/config/src/jobs/src/jobs/src/services/src/schuduler/src/routes/src/src",
+			"detail": "nodemon src/server.js",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
